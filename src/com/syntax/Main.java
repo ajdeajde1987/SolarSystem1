@@ -11,11 +11,11 @@ public class Main {
 	//adding features for featureSun
 
 	featureSun mikeSun=new featureSun();
-	mikeSun.color="blue";
-	mikeSun.heat="6565656546456";
-	mikeSun.temp="5celsious";
-	mikeSun.radius="9.666";
-	mikeSun.maritalStatus="single";
+	mikeSun.color="red";
+	mikeSun.heat="656666665656546456";
+	mikeSun.temp="56666celvin";
+	mikeSun.radius="9.666kilometers";
+	mikeSun.maritalStatus="in love";
 
 
 
